@@ -1,0 +1,32 @@
+[
+    {
+      "title": "Belajar React Dari Awal",
+      "tags": ["react", "frontend"],
+      "date": "2024-10-23",
+      "isNew": true
+    },
+    {
+      "title": "Menguasai JavaScript Modern",
+      "tags": ["javascript", "es6", "web"],
+      "date": "2024-10-20",
+      "isNew": true
+    },
+    {
+      "title": "Pengenalan TypeScript",
+      "tags": ["typescript", "programming"],
+      "date": "2024-10-18",
+      "isNew": false 
+    },
+    {
+      "title": "Membangun Aplikasi dengan Next.js",
+      "tags": ["nextjs", "react", "ssr"],
+      "date": "2024-10-15",
+      "isNew": true
+    },
+    {
+      "title": "Tips dan Trik Git untuk Developer",
+      "tags": ["git", "version control"],
+      "date": "2024-10-12",
+      "isNew": false 
+    }
+]
